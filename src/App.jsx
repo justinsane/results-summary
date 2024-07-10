@@ -3,7 +3,7 @@ import data from "./data";
 
 function App() {
   return (
-    <body className="flex h-screen justify-center md:items-center">
+    <div className="flex h-screen justify-center md:items-center">
       <div className="overflow-hidden rounded-t-none bg-white shadow-lg md:flex md:rounded-3xl">
         <div className="w-auto rounded-b-3xl bg-gradient-to-b from-light-slate-blue to-light-royal-blue p-6 md:w-64 md:rounded-3xl ">
           <p className="text-md pb-5 text-center font-bold text-white/70">
@@ -31,7 +31,7 @@ function App() {
         </div>
         <Summary />
       </div>
-    </body>
+    </div>
   );
 }
 
