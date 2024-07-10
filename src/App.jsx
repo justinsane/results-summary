@@ -55,10 +55,12 @@ function Summary() {
           </p>
         </div>
       ))}
-      <a href="https://www.google.com" className="">
-        <button className="mt-5 w-full rounded-3xl bg-dark-gray-blue p-3 text-sm font-semibold text-white hover:bg-gradient-to-b hover:from-light-slate-blue hover:to-light-royal-blue">
-          Continue
-        </button>
+      <a
+        href="https://www.google.com"
+        target="_blank"
+        className="mt-5 w-full rounded-3xl bg-dark-gray-blue p-3 text-center text-sm font-semibold text-white hover:bg-gradient-to-b hover:from-light-slate-blue hover:to-light-royal-blue"
+      >
+        Continue
       </a>
     </div>
   );
