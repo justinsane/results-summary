@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/results-summary-react-and-tailwind-css-P6pI7gWdGX)
 - [Live Site URL](https://results-summary-mu-rosy.vercel.app/)
 
 ## My process
