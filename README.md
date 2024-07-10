@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/results-summary-screenshot.JPG)
+![](./public/results-summary-screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://results-summary-mu-rosy.vercel.app/)
 
 ## My process
 

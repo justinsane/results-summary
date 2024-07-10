@@ -2,25 +2,25 @@ const data = [
   {
     category: "Reaction",
     score: 80,
-    icon: "./assets/images/icon-reaction.svg",
+    icon: "./public/icon-reaction.svg",
     color: "light-red",
   },
   {
     category: "Memory",
     score: 92,
-    icon: "./assets/images/icon-memory.svg",
+    icon: "./public/icon-memory.svg",
     color: "orangey-yellow",
   },
   {
     category: "Verbal",
     score: 61,
-    icon: "./assets/images/icon-verbal.svg",
+    icon: "./public/icon-verbal.svg",
     color: "green-teal",
   },
   {
     category: "Visual",
     score: 72,
-    icon: "./assets/images/icon-visual.svg",
+    icon: "./public/icon-visual.svg",
     color: "cobalt-blue",
   },
 ];
